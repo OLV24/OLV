@@ -153,8 +153,6 @@
       AOS.init({offset:0});
     </script>
     <script>
-        window.addEventListener("scroll", function(){
-    scrollBtn.classList.toggle("active", window.scrollY > 500);
-});
+       
 
 
