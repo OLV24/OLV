@@ -147,12 +147,7 @@
               <h3>Instagram</h3>
               <h5>@olvrich_24</h5>
             </div>
-    </script>
-    <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
-    <script>
-      AOS.init({offset:0});
-    </script>
-    <script>
+    
        
 
 
